@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 02b44e28b7f20a44b97a8c05550a33f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -35741098306611217
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_15
+  - first:
+      213: 7473209841465984384
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_16
+  - first:
+      213: 3610685674893952261
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_17
+  - first:
+      213: -2465062263677168134
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_18
+  - first:
+      213: 7700159345127615959
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_19
+  - first:
+      213: -1860502119366043453
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_20
+  - first:
+      213: 1710792425522000436
+    second: trees
+  - first:
+      213: -8747284704502241442
+    second: water
+  - first:
+      213: -5108958439196879272
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_30
+  - first:
+      213: 5453864195032851594
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_31
+  - first:
+      213: -6755509656986191883
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_32
+  - first:
+      213: -2904533577316533736
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_33
+  - first:
+      213: -7927435309373800181
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_34
+  - first:
+      213: -7058903730543421443
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_35
+  - first:
+      213: 8908831768728412135
+    second: fort
+  - first:
+      213: 8648822512753860137
+    second: grass
+  - first:
+      213: 5138287522150005835
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_45
+  - first:
+      213: -7840103181795356637
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_46
+  - first:
+      213: -6865175570058165226
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_47
+  - first:
+      213: -7628404486227880137
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_48
+  - first:
+      213: -2011482531448639160
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_49
+  - first:
+      213: 3446811671804968731
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_50
+  - first:
+      213: 6330781552552337927
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_55
+  - first:
+      213: -5822171875665609254
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_59
+  - first:
+      213: -628414825360081205
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_60
+  - first:
+      213: 579029371000311965
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_61
+  - first:
+      213: -4059485944234635498
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_62
+  - first:
+      213: -871135235633397306
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_63
+  - first:
+      213: -463322277728097395
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_64
+  - first:
+      213: -8824269590664813289
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_65
+  - first:
+      213: -4097474217114431677
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_66
+  - first:
+      213: 3503126986286915935
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_67
+  - first:
+      213: -934618395920701080
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_68
+  - first:
+      213: 7351925536991603497
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_69
+  - first:
+      213: 3886477170696509768
+    second: house
+  - first:
+      213: -1063970209697688789
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_71
+  - first:
+      213: 7993145391876736878
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_72
+  - first:
+      213: 7860834155695851862
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_73
+  - first:
+      213: 9204527274389636629
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_74
+  - first:
+      213: -4575193847730195313
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_75
+  - first:
+      213: -4188376240786468929
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_76
+  - first:
+      213: -4301273151127055120
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_77
+  - first:
+      213: -307849066702851888
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_78
+  - first:
+      213: 6085874760623808153
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_79
+  - first:
+      213: 5344470914622633998
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_80
+  - first:
+      213: 4330946050580890813
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_81
+  - first:
+      213: -3802757022635379013
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_82
+  - first:
+      213: 6594506097740050391
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_83
+  - first:
+      213: 6337251622807208365
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_84
+  - first:
+      213: 7377396964595761887
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_85
+  - first:
+      213: -4292668403446140885
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_86
+  - first:
+      213: -191996047923779902
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_87
+  - first:
+      213: 2084749947189542591
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_88
+  - first:
+      213: -4061814510490438997
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_89
+  - first:
+      213: -8559765377393763057
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_90
+  - first:
+      213: -4888413140429964654
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_91
+  - first:
+      213: -3377510714899531417
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_92
+  - first:
+      213: -5282956136131975935
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_93
+  - first:
+      213: 2632630999324558027
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_94
+  - first:
+      213: 1353604366759995149
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_95
+  - first:
+      213: -5719834816428218835
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_96
+  - first:
+      213: 6089911911824379757
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_97
+  - first:
+      213: -9099528245727951657
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_98
+  - first:
+      213: -4006095609592918535
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_99
+  - first:
+      213: -6828132723459462160
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_100
+  - first:
+      213: -6006186493962278160
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_101
+  - first:
+      213: 3086837780097897607
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_102
+  - first:
+      213: 6588664855575567855
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_103
+  - first:
+      213: -5436499146668138320
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_104
+  - first:
+      213: -1590441405942745599
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_105
+  - first:
+      213: -2876279338701739861
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_106
+  - first:
+      213: 1948289108772601670
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_107
+  - first:
+      213: -2364036873638402040
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_108
+  - first:
+      213: 1676675350355337719
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_109
+  - first:
+      213: 991224421440254478
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_110
+  - first:
+      213: 7662198800761077962
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_111
+  - first:
+      213: -2715175022195764629
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_112
+  - first:
+      213: 2378370141894859002
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_113
+  - first:
+      213: -8861149709552315932
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_114
+  - first:
+      213: 4771261071766278698
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_115
+  - first:
+      213: 6113510779464358832
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_116
+  - first:
+      213: -3456725904233504447
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_117
+  - first:
+      213: 6283542262747131080
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_118
+  - first:
+      213: -4400644427685314254
+    second: water
+  - first:
+      213: -7510573370605270516
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_120
+  - first:
+      213: -2310252195635396405
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_121
+  - first:
+      213: -7711860993203310949
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_122
+  - first:
+      213: -6691646440713774316
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_123
+  - first:
+      213: -4544041184198694665
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_124
+  - first:
+      213: -7923377968984884029
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_125
+  - first:
+      213: -2684154061593801509
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_126
+  - first:
+      213: 3502262849301983268
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_127
+  - first:
+      213: -3953048818213399350
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_128
+  - first:
+      213: 8986170795466091194
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_129
+  - first:
+      213: 8179803397247173027
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_130
+  - first:
+      213: -7925662509871571580
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_131
+  - first:
+      213: 4687122467981419103
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_132
+  - first:
+      213: -3908650424011815733
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_133
+  - first:
+      213: -6349230344974872672
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_134
+  - first:
+      213: -6484269313051701707
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_135
+  - first:
+      213: 6439127174672176490
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_136
+  - first:
+      213: -7943282316477191148
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_137
+  - first:
+      213: 3930533269993491068
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_138
+  - first:
+      213: -3740243310759755615
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_139
+  - first:
+      213: -8482793608314786648
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_140
+  - first:
+      213: 3174397209227659707
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_141
+  - first:
+      213: 7631856483992997469
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_142
+  - first:
+      213: 561108842071493975
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_143
+  - first:
+      213: -96934565731112242
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_144
+  - first:
+      213: 7734607899627669861
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_145
+  - first:
+      213: -8522836492095560370
+    second: sand
+  - first:
+      213: 1673076892419589026
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_147
+  - first:
+      213: -7512055180053512725
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_148
+  - first:
+      213: 1777041469223118062
+    second: Game Boy Advance - Fire Emblem The Sacred Stones - Chapter 01_149
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trees
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78561d5f617cb8f429612be1ee4e07df
+      internalID: 1710792425522000436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13c6babb7aae234591103313f4babca
+      internalID: -8747284704502241442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fort
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a4680588395b746b9b9e33e36d20ad
+      internalID: 8908831768728412135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871274d2bc7027048863ab859e738bf6
+      internalID: 8648822512753860137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ae4ba6302ed3c4bb3fc6a93a6840a7
+      internalID: 3886477170696509768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaf8d143747aee46a0d6cb537712198
+      internalID: -8522836492095560370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
