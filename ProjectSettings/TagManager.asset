@@ -47,3 +47,6 @@ TagManager:
   - name: grid
     uniqueID: 622774225
     locked: 0
+  - name: cursor
+    uniqueID: 3406502395
+    locked: 0

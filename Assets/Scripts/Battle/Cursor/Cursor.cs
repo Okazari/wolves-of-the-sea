@@ -31,7 +31,7 @@ public class Cursor : MonoBehaviour
     resetMinimumMoveDeltaTimer();
     instance = new GameObject("Cursor");
     instance.transform.position = new Vector2(2, 2);
-    RuntimeAnimatorController animatorController = Resources.Load<RuntimeAnimatorController>("cursor/CursorAnimatorController");
+    RuntimeAnimatorController animatorController = Resources.Load<RuntimeAnimatorController>("CursorAnimatorController");
     SpriteRenderer cursorSpriteRenderer = instance.AddComponent<SpriteRenderer>();
     cursorSpriteRenderer.sortingLayerName = "cursor";
     Animator animator = instance.AddComponent<Animator>();

@@ -62,9 +62,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\BattleGrid.cs" />
-    <Compile Include="Assets\Scripts\BattleManager.cs" />
-    <Compile Include="Assets\Scripts\Cursor.cs" />
+    <Compile Include="Assets\Scripts\Battle\BattleGrid.cs" />
+    <Compile Include="Assets\Scripts\Battle\BattleManager.cs" />
+    <Compile Include="Assets\Scripts\Battle\Cursor\Cursor.cs" />
+    <Compile Include="Assets\Scripts\Battle\Unit\Unit.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/workspace/wolves-of-the-sea/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
