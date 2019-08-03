@@ -15,11 +15,14 @@ public class BattleManager : MonoBehaviour
 
   private GameObject instance;
 
+  public Cursor cursor;
+
   private BattleGrid battleGrid;
   void Awake()
   {
     instance = new GameObject("Battle");
     battleGrid = new BattleGrid(columns, rows, instance);
+    cursor = instance.AddComponent<Cursor>();
   }
 
 }

@@ -10,7 +10,30 @@ public class BattleGrid
   private int nbColumns;
   private int nbRows;
 
-  private List<List<GameObject>> gridPositions;
+  private List<List<Cell>> gridPositions;
+
+  public class Cell
+  {
+    public GameObject instance;
+    public GameObject grid;
+    public Cell(int x, int y)
+    {
+      this.instance = new GameObject($"Cell {x}-{y}");
+      instance.transform.position = new Vector2(x, y);
+      SpriteRenderer spriteRenderer = this.instance.AddComponent<SpriteRenderer>();
+      Sprite[] sprites = Resources.LoadAll<Sprite>("map/grass");
+      spriteRenderer.sprite = sprites[Random.Range(0, sprites.Length)];
+      spriteRenderer.sortingLayerName = "background";
+
+      this.grid = new GameObject("Grid overlay");
+      this.grid.transform.SetParent(this.instance.transform);
+      this.grid.transform.localPosition = new Vector2(0, 0);
+      SpriteRenderer gridRenderer = this.grid.AddComponent<SpriteRenderer>();
+      gridRenderer.sprite = Resources.Load<Sprite>("grid");
+      gridRenderer.sortingLayerName = "grid";
+      gridRenderer.color = new Color(255, 255, 255, 0.2f);
+    }
+  }
 
   public BattleGrid(int nbColumns, int nbRows, GameObject parent)
   {
@@ -20,19 +43,14 @@ public class BattleGrid
     {
       return Enumerable.Range(0, nbRows).Select(y =>
       {
-        var tile = new GameObject($"Cell {x}-{y}");
-        tile.transform.position = new Vector2(x, y);
-        SpriteRenderer spriteRenderer = tile.AddComponent<SpriteRenderer>();
-        Dictionary<string, Sprite> sprites = Resources.LoadAll<Sprite>("battleBackground").ToDictionary(sp => sp.name, sp => sp); ;
-        Debug.Log(sprites);
-        spriteRenderer.sprite = sprites["grass"];
-        tile.transform.SetParent(parent.transform);
+        Cell tile = new Cell(x, y);
+        tile.instance.transform.SetParent(parent.transform);
         return tile;
       }).ToList();
     }).ToList();
   }
 
-  GameObject getCell(int x, int y)
+  Cell getCell(int x, int y)
   {
     return this.gridPositions[x][y];
   }
